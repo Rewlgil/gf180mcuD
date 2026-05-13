@@ -1,5 +1,11 @@
 # Exercise 1 - Let's Implement a 32-bit Counter
 
+## 0.1 - Activate Environment
+Open wsl OSS and enter following commands to activate environment.
+```
+source conda-oss/bin/activate
+conda activate tmec
+```
 ## 1.1 - Run LibreLane
 
 We start the first exercise by implementing a 32-bit counter. Make sure you have the `librelane` conda environment activated, and run the following command in this folder:
